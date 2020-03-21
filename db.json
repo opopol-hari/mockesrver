@@ -6,10 +6,7 @@
     { "id": 4, "name": "Charles", "status": "Inactive" }
   ],
   "location": [
-    { "id": 1, "title": "sector 4", "info": "Sirsa" , "color": "HR" , "status": "active" 
-	, "img_url": "active" 
-	  
-	},
+    { "id": 1, "name": "sector 1", "city": "Fatehabad" , "state": "HR" , "status": "active" },
     { "id": 2, "name": "sector 14", "city": "Fatehabad" , "state": "HR" , "status": "active" },
     { "id": 3, "name": "sector 41", "city": "Hisar" , "state": "HR" , "status": "active" },
     { "id": 4, "name": "sector 46", "city": "Hisar" , "state": "HR" , "status": "active" }
@@ -20,8 +17,9 @@
     { "id": 3, "title": "Pre Natal", "info": "Sirsa" , "color": "#fbb68d" , "status": "active", "img_url": "https://img.icons8.com/ios/50/000000/gmail.png" },
     { "id": 4, "title": "Nurse", "info": "Sirsa" , "color": "#00bfa5" , "status": "active", "img_url": "https://img.icons8.com/ios/50/000000/gmail.png" },
     { "id": 5, "title": "Care", "info": "Sirsa" , "color": "#f3f0e7" , "status": "active", "img_url": "https://img.icons8.com/ios/50/000000/gmail.png" },
-    { "id": 6, "title": "Other", "info": "Sirsa" , "color": "#ebebeb" , "status": "active", "img_url": "https://img.icons8.com/ios/50/000000/gmail.png" },
+    { "id": 6, "title": "Other", "info": "Sirsa" , "color": "#ebebeb" , "status": "active", "img_url": "https://img.icons8.com/ios/50/000000/gmail.png" }
   ],
   "customers": [
-  {"uid":"25","name":"customer1","field_secondary_email":"customer12@abc.com","field_name":"Amit Kumar","field_sector":"Sector 1","field_hno_flat_no":"H-22","field_landmark":"","field_mobile_number":"9877678887","field_secondary_contact_number":"","field_terms_condition":"On"}]
+  {"uid":"25","name":"customer1","field_secondary_email":"customer12@abc.com","field_name":"Amit Kumar","field_sector":"Sector 1","field_hno_flat_no":"H-22","field_landmark":"","field_mobile_number":"9877678887","field_secondary_contact_number":"","field_terms_condition":"On"}
+  ]
 }
