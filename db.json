@@ -1,11 +1,5 @@
 {
   "welcome": [
     { "id": 1, "welcome_msg": "Welcome Message Content", "status": "active" }
-  ],
-  
-  "service_request": [
-    { "id": 1, "service_id": "1", "stage": "","status" :"existing"}
-	
   ] 
-   
-    }
+}
