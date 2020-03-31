@@ -2,7 +2,8 @@
  "session": [
     { "title": "Live Class", "channel": "live_classes",
      "message": "Topic : Chapter 1st, English and classes will start from 10 AM to 12PM ", 
-     "status": "active", "isoff": "no"
+     "status": "active", "isoff": "no",
+     "url":"https://via.placeholder.com/600/92c952"
     }
   ] 
 }
