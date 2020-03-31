@@ -1,7 +1,18 @@
 {
  "session": [
-    { "title": "Live Class", "channel": "live_classes",
+    { "title": "Class First", "channel": "live_classes_class1",
      "message": "Topic : Chapter 1st - English and classes will start from 10 AM to 12PM, By Anuradha Mam ", 
+       "isoff": "no",
+     "url":"https://via.placeholder.com/600/92c952"
+    },
+  { "title": "Class Second", "channel": "live_classes_class2",
+     "message": "Topic : Chapter 2nd - Hindi and classes will start from 10 AM to 12PM, By Raghav Sir ", 
+       "isoff": "no",
+     "url":"https://via.placeholder.com/600/92c952"
+    }
+  ,
+  { "title": "Class Third", "channel": "live_classes_class3",
+     "message": "Topic : Chapter 3rd - Math and classes will start from 10 AM to 12PM, By Rajni Mam ", 
        "isoff": "no",
      "url":"https://via.placeholder.com/600/92c952"
     }
