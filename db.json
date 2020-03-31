@@ -2,18 +2,11 @@
   "welcome": [
     { "id": 1, "welcome_msg": "Welcome Message Content", "status": "active" }
   ],
-  "notices": [
-    { "id": 1, "notice_msg": "Notice Message Content", "status": "active" 
-	, "img_url": "https://img.icons8.com/ios/50/000000/gmail.png","priority":"1"  }
-  ],
+   
   "otplogin": [
     { "id": 1, "otp": "554534", "message": "Your Otp is Shared on mobile number" }
   ],
-  "verifyotp": [
-    { "id": 1, "role": "customer", "message": "Welcome Customer,Your mobile number is verified","status" :"existing"},
-	{ "id": 2, "role": "candidate", "message": "Welcome Candidate,Your mobile number is verified","status" :"existing"},
-	{ "id": 3, "role": "undefined", "message": "Your mobile number is verified,please choose role","status" :"new"}
-  ],
+   
   "service_request": [
     { "id": 1, "service_id": "1", "stage": "","status" :"existing"}
 	
