@@ -24,21 +24,7 @@
     { "id": 3, "name": "sector 41", "city": "Hisar" , "state": "HR" , "status": "active" },
     { "id": 4, "name": "sector 46", "city": "Hisar" , "state": "HR" , "status": "active" }
   ],
-   "services" : [ 
-                    [ "services_slider",  [
-   { "id": 1, "title": "Slider Title", "info_url": "mothertouchservices.com" , "status": "active", "img_url": "https://img.icons8.com/ios/50/000000/gmail.png" }
-   ]],
-                    [ "services_type", [
-    { "id": 1, "title": "Baby Sitter", "info": "Sirsa" , "color": "#f7c81f" , "status": "active", "img_url": "https://img.icons8.com/ios/50/000000/gmail.png" },
-    { "id": 2, "title": "Born Baby", "info": "Sirsa" , "color": "#00bfa5" , "status": "active", "img_url": "https://img.icons8.com/ios/50/000000/gmail.png" },
-    { "id": 3, "title": "Pre Natal", "info": "Sirsa" , "color": "#fbb68d" , "status": "active", "img_url": "https://img.icons8.com/ios/50/000000/gmail.png" },
-    { "id": 4, "title": "Nurse", "info": "Sirsa" , "color": "#00bfa5" , "status": "active", "img_url": "https://img.icons8.com/ios/50/000000/gmail.png" },
-    { "id": 5, "title": "Care", "info": "Sirsa" , "color": "#f3f0e7" , "status": "active", "img_url": "https://img.icons8.com/ios/50/000000/gmail.png" },
-    { "id": 6, "title": "Other", "info": "Sirsa" , "color": "#ebebeb" , "status": "active", "img_url": "https://img.icons8.com/ios/50/000000/gmail.png" }
-	
-	] ]  
-               ],
-    
+   
   "customers": [
   {"uid":"25","name":"customer1","field_secondary_email":"customer12@abc.com","field_name":"Amit Kumar","field_sector":"Sector 1","field_hno_flat_no":"H-22","field_landmark":"","field_mobile_number":"9877678887","field_secondary_contact_number":"","field_terms_condition":"On"}]
 }
