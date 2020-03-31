@@ -18,13 +18,5 @@
     { "id": 1, "service_id": "1", "stage": "","status" :"existing"}
 	
   ],
-  "location": [
-    { "id": 1, "title": "sector 4", "info": "Sirsa" , "color": "HR" , "status": "active"},
-    { "id": 2, "name": "sector 14", "city": "Fatehabad" , "state": "HR" , "status": "active" },
-    { "id": 3, "name": "sector 41", "city": "Hisar" , "state": "HR" , "status": "active" },
-    { "id": 4, "name": "sector 46", "city": "Hisar" , "state": "HR" , "status": "active" }
-  ],
    
-  "customers": [
-  {"uid":"25","name":"customer1","field_secondary_email":"customer12@abc.com","field_name":"Amit Kumar","field_sector":"Sector 1","field_hno_flat_no":"H-22","field_landmark":"","field_mobile_number":"9877678887","field_secondary_contact_number":"","field_terms_condition":"On"}]
-}
+    }
