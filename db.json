@@ -2,14 +2,10 @@
   "welcome": [
     { "id": 1, "welcome_msg": "Welcome Message Content", "status": "active" }
   ],
-   
-  "otplogin": [
-    { "id": 1, "otp": "554534", "message": "Your Otp is Shared on mobile number" }
-  ],
-   
+  
   "service_request": [
     { "id": 1, "service_id": "1", "stage": "","status" :"existing"}
 	
-  ],
+  ] 
    
     }
