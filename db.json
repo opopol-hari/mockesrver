@@ -18,6 +18,22 @@
     }
   ],
   "mtouch": [
+   ,
+   { "title": "Attendance": "https://docs.google.com/spreadsheets/d/1Tj5zHM40x669YxVIkfex-RTZXYQ2RN7T_AHAc2phjiQ",
+     "message": "Attendance Sheets", 
+       "isoff": "no",
+     "invoker_uid":19199191
+    },
+   { "title": "To Do list", "channel": "https://docs.google.com/spreadsheets/d/1G5pQEdpgstvyMGlqYrCue9HJowjQQ5yzkB8GjKPLyeU",
+     "message": "All pending task lists ", 
+       "isoff": "no",
+     "invoker_uid":19199191
+    },
+   { "title": "Employees List", "channel": "https://docs.google.com/spreadsheets/d/1wT8OsGIJcoOID7WvvuSqMJmFf1_YwwmXq-rJTO38CrA",
+     "message": "All Employees List ", 
+       "isoff": "no",
+     "invoker_uid":19199191
+    }
    
   ],
  "users":[
