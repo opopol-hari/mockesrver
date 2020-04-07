@@ -18,11 +18,6 @@
     }
   ],
   "mtouch": [
-    { "title": "Requirements", "channel": "https://docs.google.com/spreadsheets/d/1m5MpIx3UPE1RqHQzecQqX8wldi4hJ6A8P-rKfZaboYU",
-     "message": "All recieved Requirements", 
-       "isoff": "no",
-     "invoker_uid":19199191
-    }
    
   ],
  "users":[
