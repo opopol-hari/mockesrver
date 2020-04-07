@@ -18,7 +18,7 @@
     }
   ],
   "mtouch": [
-    { "title": "Case 1", "channel": "urlinfo",
+    { "title": "Case 1", "channel": "https://docs.google.com/document/d/1c0d8MtZCae-z71wpQZUywTjUudI3TPsGrUJWlP_7qyo",
      "message": "Descriptioin ", 
        "isoff": "no",
      "invoker_uid":19199191
