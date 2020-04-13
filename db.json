@@ -34,5 +34,154 @@
   ],
  "users":[
   {"id":1,"email":"bruno@email.com","password":"bruno"},{"id":2,"email":"techie@email.com","password":"techie"},{"id":3,"email":"nilson@email.com","password":"nilson"},{"id":4,"email":"nilson1@email.com","password":"nilson"},{"id":5,"email":"nilson2@email.com","password":"nilson"},{"id":6,"email":"nilson3@email.com","password":"nilson"},{"id":7,"email":"nilson4@email.com","password":"nilson"},{"id":8,"email":"nilson7@email.com","password":"nilson"},
-  {"id":9,"email":"nilson8@email.com","password":"nilson"}]
+  {"id":9,"email":"nilson8@email.com","password":"nilson"}],
+ "user_info":[
+  {
+    "id": 1,
+    "title": "Therapy -",
+    "subtitle": null,
+    "items": [
+      {
+        "id": 11,
+        "name": "Pre - Natal (Mother Massage 45mins)",
+        "value": null,
+        "isChecked": true
+      },
+      {
+        "id": 12,
+        "name": "Post - Natal",
+        "value": null,
+        "isChecked": false
+      }
+    ]
+
+  },
+  {
+    "id": 2,
+    "title": "Massage for ",
+    "subtitle": "Per day service charges",
+    "items": [
+      {
+        "id": 21,
+        "name": "Single Baby 30mins",
+        "value": 400,
+        "isChecked": true
+      },
+      {
+        "id": 22,
+        "name": "Twins Baby 30 - 30mins",
+        "value": 500,
+        "isChecked": false
+      },
+      {
+        "id": 23,
+        "name": "Mother 45mins",
+        "value": 500,
+        "isChecked": false
+      },
+      {
+        "id": 24,
+        "name": "1 Baby + Mother Care",
+        "value": 500,
+        "isChecked": false
+      },
+      {
+        "id": 25,
+        "name": "2 Baby + Mother Care",
+        "value": 700,
+        "isChecked": false
+      }
+    ]
+
+  },
+  {
+    "id": 3,
+    "title": "Add on",
+    "subtitle": null,
+    "items": [
+      {
+        "id": 31,
+        "name": "Laundry for Baby",
+        "value": "49",
+        "isChecked": false
+      },
+      {
+        "id": 32,
+        "name": "Baby Bath",
+        "value": "49",
+        "isChecked": false
+      }
+    ]
+
+  },
+  {
+    "id": 4,
+    "title": "Time slot suitable for you",
+    "subtitle": null,
+    "items": [
+      {
+        "id": 41,
+        "name": "8 AM - 12 PM",
+        "value": null,
+        "isChecked": false
+      },
+      {
+        "id": 42,
+        "name": "12 PM - 4 PM",
+        "value": null,
+        "isChecked": false
+      },
+      {
+        "id": 43,
+        "name": "12 PM - 4 PM",
+        "value": null,
+        "isChecked": true
+      }
+    ]
+
+  },
+  {
+    "id": 4,
+    "title": "Time slot suitable for you",
+    "subtitle": null,
+    "items": [
+      {
+        "id": 41,
+        "name": "8 AM - 12 PM",
+        "value": null,
+        "isChecked": false
+      },
+      {
+        "id": 42,
+        "name": "12 PM - 4 PM",
+        "value": null,
+        "isChecked": false
+      },
+      {
+        "id": 43,
+        "name": "12 PM - 4 PM",
+        "value": null,
+        "isChecked": true
+      }
+    ]
+
+  },
+  {
+    "id": 5,
+    "title": "Your preferred timings",
+    "subtitle": "Note : We will provide the service on your preferred slot but for your prederred timings we will try our best but it depends on the availability of therapist",
+    "items": [
+      {
+        "id": 1,
+        "name": "Time",
+        "value": null,
+        "isChecked": true
+      }
+    ]
+
+  }
+
+]
+ 
+ 
 }
